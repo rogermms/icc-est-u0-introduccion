@@ -9,4 +9,5 @@
 
  Cree el proyecto y funciono no le voy a mover por q no me acuerdo como lo hice
 
+![alt text](assets/resultadoRM.png)
 
