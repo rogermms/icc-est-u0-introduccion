@@ -11,6 +11,7 @@
 
 ## Practica 2
 Fecha 06 de Oct de 2026
+
 pegue una imagen checa ahi porfs
 
 ![alt text](assets/resultadoRM.png)
